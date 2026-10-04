@@ -1,14 +1,10 @@
 # 20261R0136COSE362 — Synthetic Early Degradation Generation
 
 # Each student should create a personal GitHub account and upload the project code to a public repository using the following format:
-아흐마드 나우팔 2023320085: https://github.com/naufalasro/20261R0136COSE362
-
-하짐 2024320103: https://github.com/hazimxm04/20261R0136COSE362\
-
-Feras 2024320052: https://github.com/FerasM07/20261R0136COSE362
-
-마랄마 (2022320170): 
-https://github.com/Renenny/20261R0136COSE362
+아흐마드 나우팔 : https://github.com/naufalasro/20261R0136COSE362
+하짐: https://github.com/hazimxm04/20261R0136COSE362\
+Feras: https://github.com/FerasM07/20261R0136COSE362
+마랄마: https://github.com/Renenny/20261R0136COSE362
 -
 ## Team I4 — AI + Logistics Supply Chain
 
@@ -63,11 +59,11 @@ Pre-trained model checkpoints are stored on Google Drive.
 
 | Name | Student ID |
 |------|------------|
-마랄마 (2022320170) 
-ABDULLAH FERAS MOHAMMED HASSAN (2024320052) 
-마히라 소피아 (2023320033)
-하짐 (2024320103) 
-아흐마드 나우팔 (2023320085)
+마랄마 
+ABDULLAH FERAS MOHAMMED HASSAN 
+마히라 소피아 
+하짐 
+아흐마드 나우팔 
 ---
 
 ## Key Results
