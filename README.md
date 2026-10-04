@@ -1,11 +1,11 @@
-# 20261R0136COSE362 — Synthetic Early Degradation Generation
+# 20261R0136COSE362 - Synthetic Early Degradation Generation
 
-###cEach student should create a personal GitHub account and upload the project code to a public repository using the following format:
+#### Each student should create a personal GitHub account and upload the project code to a public repository using the following format:
 아흐마드 나우팔 : https://github.com/naufalasro/20261R0136COSE362
 하짐: https://github.com/hazimxm04/20261R0136COSE362\
 Feras: https://github.com/FerasM07/20261R0136COSE362
 마랄마: https://github.com/Renenny/20261R0136COSE362
--
+
 ## Team I4 — AI + Logistics Supply Chain
 
 **Course**: COSE362 Machine Learning | Korea University | 2026 Spring
