@@ -1,6 +1,6 @@
 # 20261R0136COSE362 — Synthetic Early Degradation Generation
 
-# Each student should create a personal GitHub account and upload the project code to a public repository using the following format:
+###cEach student should create a personal GitHub account and upload the project code to a public repository using the following format:
 아흐마드 나우팔 : https://github.com/naufalasro/20261R0136COSE362
 하짐: https://github.com/hazimxm04/20261R0136COSE362\
 Feras: https://github.com/FerasM07/20261R0136COSE362
